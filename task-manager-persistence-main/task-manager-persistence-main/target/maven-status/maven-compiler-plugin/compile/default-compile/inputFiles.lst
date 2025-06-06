@@ -1,0 +1,9 @@
+C:\Users\carlo\Documents\NetBeansProjects\task-manager-persistence\src\main\java\umg\edu\gt\persistence\model\Task.java
+C:\Users\carlo\Documents\NetBeansProjects\task-manager-persistence\src\main\java\umg\edu\gt\persistence\model\TaskHistory.java
+C:\Users\carlo\Documents\NetBeansProjects\task-manager-persistence\src\main\java\umg\edu\gt\persistence\model\User.java
+C:\Users\carlo\Documents\NetBeansProjects\task-manager-persistence\src\main\java\umg\edu\gt\persistence\repository\TaskHistoryRepository.java
+C:\Users\carlo\Documents\NetBeansProjects\task-manager-persistence\src\main\java\umg\edu\gt\persistence\repository\TaskRepository.java
+C:\Users\carlo\Documents\NetBeansProjects\task-manager-persistence\src\main\java\umg\edu\gt\persistence\repository\UserRepository.java
+C:\Users\carlo\Documents\NetBeansProjects\task-manager-persistence\src\main\java\umg\edu\gt\persistence\service\TaskHistoryService.java
+C:\Users\carlo\Documents\NetBeansProjects\task-manager-persistence\src\main\java\umg\edu\gt\persistence\service\TaskService.java
+C:\Users\carlo\Documents\NetBeansProjects\task-manager-persistence\src\main\java\umg\edu\gt\persistence\service\UserService.java

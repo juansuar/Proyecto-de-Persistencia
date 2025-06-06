@@ -1,0 +1,9 @@
+umg\edu\gt\persistence\service\TaskHistoryService.class
+umg\edu\gt\persistence\service\UserService.class
+umg\edu\gt\persistence\model\TaskHistory.class
+umg\edu\gt\persistence\model\User.class
+umg\edu\gt\persistence\repository\UserRepository.class
+umg\edu\gt\persistence\service\TaskService.class
+umg\edu\gt\persistence\model\Task.class
+umg\edu\gt\persistence\repository\TaskHistoryRepository.class
+umg\edu\gt\persistence\repository\TaskRepository.class
